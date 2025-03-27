@@ -22,7 +22,8 @@ function calculateAreaOfTriangle() {
   )
 
   // process
-  const areaOfTrapezoid = ((aBaseOfTrapezoid + bBaseOfTrapezoid) / 2) * heightOfTrapezoid
+  const areaOfTrapezoid =
+    ((aBaseOfTrapezoid + bBaseOfTrapezoid) / 2) * heightOfTrapezoid
 
   // output
   document.getElementById("answer").innerHTML =
