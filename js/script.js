@@ -7,7 +7,7 @@
 "use strict"
 
 /**
- * This function calculates the area of a trapezoid.
+ * This function calculates the area of a triangle.
  */
 function calculateAreaOfTriangle() {
   // input
