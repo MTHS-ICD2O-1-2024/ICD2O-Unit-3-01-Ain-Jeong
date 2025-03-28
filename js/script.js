@@ -27,5 +27,5 @@ function calculateAreaOfTriangle() {
 
   // output
   document.getElementById("answer").innerHTML =
-    "Area of your Trapezoid is: " + areaOfTrapezoid + " cm²"
+    "Area of your Trapezoid is: " + areaOfTrapezoid + " mm²"
 }
